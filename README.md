@@ -51,3 +51,8 @@ If an operation or function is not specified in the ARP file, then Dremio will h
 2. Take the resulting .jar file in the target folder and put it in the \dremio\jars folder in Dremio
 3. Take the Cassandra JDBC driver and .lic file from (https://github.com/ing-bank/cassandra-jdbc-wrapper) and put in in the $DREMIO_HOME/jars/3rdparty folder
 4. Restart Dremio
+
+
+
+
+this dremio-cassandra-plugin-17.0.0-202107060524010627- .... the 17.0.0 is the version of Dremio
