@@ -55,5 +55,5 @@ If an operation or function is not specified in the ARP file, then Dremio will h
 ## Please Attention
 the plugin is in Target directory and is as jar file\
 target/dremio-cassandra-plugin-17.0.0-202107060524010627-31b5222b.jar\
-The number 17.0.0. is the version of Dremio you have installed\
+The number 17.0.0. is the version of Dremio you have installed
 
