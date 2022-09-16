@@ -55,4 +55,7 @@ If an operation or function is not specified in the ARP file, then Dremio will h
 
 
 
-this dremio-cassandra-plugin-17.0.0-202107060524010627- .... the 17.0.0 is the version of Dremio
+the jar file in target is the plugin for Dremio 
+target/dremio-cassandra-plugin-17.0.0-202107060524010627-31b5222b.jar
+the 17.0.0 is the version of Dremio
+
